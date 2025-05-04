@@ -24,6 +24,8 @@ I work at one of the largest minimarket companies in Indonesia, focusing on fron
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/stefanusd/stefanusd/output/snake.svg" alt="Snake animation" />
 
 ###
