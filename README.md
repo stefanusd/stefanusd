@@ -1,3 +1,5 @@
+![Stefanus Ditta](img/github-header-image.png)
+
 # 💫 About Me:
 I work at one of the largest minimarket companies in Indonesia, focusing on front-end development for both internal and external financial websites. I'm experienced in using React JS and Vue to build clean, responsive user interfaces. I also have hands-on experience with Laravel and CodeIgniter for fullstack development needs. When it comes to styling, Tailwind CSS is my go-to because of its flexibility and speed 🚀. I'm always eager to explore new technologies and build web experiences that are not just functional, but also delightful to use ✨.
 
